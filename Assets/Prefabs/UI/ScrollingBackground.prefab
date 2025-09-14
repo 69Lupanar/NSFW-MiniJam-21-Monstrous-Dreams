@@ -59,18 +59,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RawImage
   m_Material: {fileID: 0}
-  m_Color: {r: 0.1, g: 0.1, b: 0.1, a: 1}
-  m_RaycastTarget: 1
+  m_Color: {r: 1, g: 0, b: 1, a: 0.039215688}
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 2800000, guid: 13f6472e3ce6cc94f8f8a2e2237d256f, type: 3}
+  m_Texture: {fileID: 2800000, guid: 6e82f478d355d14419631019da7276a0, type: 3}
   m_UVRect:
     serializedVersion: 2
-    x: 0
-    y: 0
+    x: 0.23258898
+    y: 0.23258898
     width: 15
     height: 8.3
 --- !u!114 &2111711109827681538
@@ -86,4 +86,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BackgroundScroller
   _img: {fileID: 6208618062927410131}
-  _speedXY: {x: 0.2, y: 0.2}
+  _speedXY: {x: 0.1, y: 0.1}

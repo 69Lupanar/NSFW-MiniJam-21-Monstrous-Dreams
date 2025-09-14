@@ -48,7 +48,7 @@ public class AudioManager : MonoBehaviour
         }
 
         Instance = this;
-        DontDestroyOnLoad(Instance.gameObject);
+        DontDestroyOnLoad(gameObject);  //Ne fonctionne que si l'objet est à la racine de la scène
         _inactiveAudioSources = new List<AudioSource>(1);
         _activeAudioSources = new List<AudioSource>(1);
     }

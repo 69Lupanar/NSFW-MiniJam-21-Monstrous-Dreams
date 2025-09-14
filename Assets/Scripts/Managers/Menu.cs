@@ -5,10 +5,11 @@ public class Menu : MonoBehaviour
 {
     [SerializeField] private AudioClip _bgm;
     [SerializeField] private GameObject _quitBtn;
+    [SerializeField] private SceneFader _sceneFader;
 
     void Start()
     {
-#if !UNITY_EDITOR_WIN && !UNITY_STANDALONE_WIN
+#if !UNITY_EDITOR && !UNITY_STANDALONE
         _quitBtn.SetActive(false);
 #endif
         if (!AudioManager.Instance.IsPlaying(_bgm))
@@ -20,11 +21,15 @@ public class Menu : MonoBehaviour
 
     public void OnStartBtnClick()
     {
-        SceneManager.LoadScene("GameScene");
+        _sceneFader.FadeOut(1f, _sceneFader.FadeOutGradient, () => SceneManager.LoadScene("GameScene"));
     }
 
     public void OnQuitBtnClick()
     {
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#else
         Application.Quit();
+#endif
     }
 }

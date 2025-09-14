@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: "Ce texte est \xE0 gauche"
+    <TextAlignment>k__BackingField: 257
+  - <Text>k__BackingField: Ce texte est au centre
+    <TextAlignment>k__BackingField: 514
+  - <Text>k__BackingField: "Ce texte est \xE0 droite"
+    <TextAlignment>k__BackingField: 1028
+  - <Text>k__BackingField: Ce texte a du <color=#ff0000><b>STYLE</b></color> mec
+    <TextAlignment>k__BackingField: 1028
+  <Illustration>k__BackingField: {fileID: -2413806693520163455, guid: 7b77070e9b7df4043bcfa3e2524314bb, type: 3}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: b8704073577eb924f849e22c9d0d1318, type: 3}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - <Text>k__BackingField: '- Tester la condition'
+    <Next>k__BackingField: {fileID: 11400000, guid: 68415870b71b83a4b84d91461bc45b12, type: 2}
+  - <Text>k__BackingField: "- Lancer l'\xE9v\xE9nement 1"
+    <Next>k__BackingField: {fileID: 11400000, guid: 07f0ad6f6a459c7449ff55b0360053a4, type: 2}
+  - <Text>k__BackingField: "- Lancer l'\xE9v\xE9nement 2"
+    <Next>k__BackingField: {fileID: 11400000, guid: ffa85295fa6d8f04abeed2e7d205329a, type: 2}

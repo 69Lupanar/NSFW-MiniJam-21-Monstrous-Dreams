@@ -16,21 +16,20 @@ MonoBehaviour:
   - <Text>k__BackingField: As I'm about to leave, a brief sparkle of light catches
       my attention.
     TextAlignment: 257
-  - <Text>k__BackingField: Anyone would have missed it had they not payed attention.
-      It was an unassuming statuette, smaller than the others. It resembled... I
-      don't know. It looked like the kind of stuff you saw in history books about
+  - <Text>k__BackingField: It was an unassuming statuette, smaller than the others.
+      It resembled... I don't know. The kind of stuff you see  in history books about
       old religions and shit like that. Old monsters, pagan deities. This one definitely
-      looked like one.
+      looked the part.
     TextAlignment: 257
   - <Text>k__BackingField: Cupping it in my hand, I examine it from every angle.
       The little thing seems to be radiating heat in my hand, so imperceptible that
       it might just be my own body heat.
     TextAlignment: 257
-  - <Text>k__BackingField: The level of detail on this statuette is... Weird. The
-      minuscule scales on its back can be felt to the touch. Six pairs of legs, mounted
-      on a worm-like body, crowned by three pairs of red gems in lieu of eyes. The
-      reflection of the street lamps made them glow with an eerie red... Like it
-      was watching me.
+  - <Text>k__BackingField: The level of detail on this statuette is... Odd. The minuscule
+      scales on its back can be felt to the touch. Six pairs of legs, mounted on
+      a worm-like body, crowned by three pairs of red gems in lieu of eyes. The reflection
+      of the street lamps made them glow with an eerie red... Like it was watching
+      me.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}

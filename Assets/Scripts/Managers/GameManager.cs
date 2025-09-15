@@ -143,6 +143,11 @@ public class GameManager : MonoBehaviour
             AudioManager.Instance.Play(state.Bgm);
         }
 
+        if (state.SFX != null)
+        {
+            AudioManager.Instance.PlayIfNotPlaying(state.SFX);
+        }
+
         if (state.Item != null)
         {
             InventoryManager.Add(state.Item);
@@ -181,7 +186,7 @@ public class GameManager : MonoBehaviour
             TextMeshProUGUI tmp = child.GetComponent<TextMeshProUGUI>();
             tmp.alignment = text.TextAlignment;
             tmp.text = text.Text;
-            tmp.ForceMeshUpdate();
+            tmp.SetVerticesDirty();
         }
     }
 

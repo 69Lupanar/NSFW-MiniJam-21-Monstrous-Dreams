@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: p9
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Kid me would have probably found it gross. But I don't
+      know, it looks... Kinda neat? It's maker sure loved working on it, given how
+      it made sure you knew it was a female.
+    TextAlignment: 257
+  - <Text>k__BackingField: The tits on this thing are massive... If it were human-sized,
+      they would be back-crushing. Especially with this statue having three pairs
+      of them. The creator even took the time to sculpt a little slit in between
+      its rear legs.
+    TextAlignment: 257
+  - <Text>k__BackingField: Should I feel repulsed by this? It's not the kind of stuff
+      I'd show my collieagues coming over a cup of coffee, but... I don't know. I
+      kinda like it.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 46f7b1e09857f674889af7d276999d4d, type: 2}

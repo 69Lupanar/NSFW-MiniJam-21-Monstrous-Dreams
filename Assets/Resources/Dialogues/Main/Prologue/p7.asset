@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: p7
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: <color=#FFDD44>Hey buddy! Something caught yer eye?
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#99DDFF>Huh?
+    TextAlignment: 260
+  - <Text>k__BackingField: I must have been staring at that guy's stand for longer
+      than comfortable.
+    TextAlignment: 257
+  - <Text>k__BackingField: The table is crowded with statuettes and jars of all kinds.
+      Some depict naked men and women, some bas-reliefs depict historical events,
+      and some, monsters of folklores too foreign for me to pinpoint where and when
+      they belong.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FFDD44>Interested in something?
+    TextAlignment: 260
+  - <Text>k__BackingField: ... Nothing but stuff only old people would enjoy. I don't
+      want to seem impolite to him, but I'm not interested.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: b3d68758d1aa3a347b6f28a3526fcf81, type: 2}

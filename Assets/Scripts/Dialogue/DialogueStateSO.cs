@@ -28,6 +28,12 @@ public class DialogueStateSO : DialogueNode
     public AudioClip Bgm { get; private set; }
 
     /// <summary>
+    /// L'effet sonore optionnel à jouer
+    /// </summary>
+    [field: SerializeField]
+    public AudioClip SFX { get; private set; }
+
+    /// <summary>
     /// L'objet débloqué s'il y en a un
     /// </summary>
     [field: SerializeField]
@@ -60,7 +66,7 @@ public class DialogueText
     /// L'alignement du texte
     /// </summary>
     [field: SerializeField]
-    public TextAlignmentOptions TextAlignment { get; private set; }
+    public TextAlignmentOptions TextAlignment = TextAlignmentOptions.TopRight;
 }
 
 /// <summary>
@@ -75,11 +81,11 @@ public class DialogueBranch
     /// Le texte du choix à afficher
     /// </summary>
     [field: SerializeField]
-    public string Text { get; private set; }
+    public string Text = "- Next";
 
     /// <summary>
     /// Le prochain état à lire. S'il n'y en a aucun, le dialogue est terminé.
     /// </summary>
-    [field: SerializeField]
-    public DialogueNode Next { get; private set; }
+    [SerializeField]
+    public DialogueNode Next;
 }

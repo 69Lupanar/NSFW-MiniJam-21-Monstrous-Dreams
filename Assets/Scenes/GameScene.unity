@@ -2648,7 +2648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21bbac782c34d2a48ab06eafacf2f364, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameStart
-  <StartNode>k__BackingField: {fileID: 11400000, guid: 95ef4af928d03974481c91cb8297defd, type: 2}
+  <StartNode>k__BackingField: {fileID: 11400000, guid: e56306f54426a3d4aba50144f001b4da, type: 2}
   <DialogueTextPrefab>k__BackingField: {fileID: 3979257293635975404, guid: 9a8b20b551c105a4eaf07f15618f0c74, type: 3}
   <DialogueBtnPrefab>k__BackingField: {fileID: 5524331929576234496, guid: 5981484a5bcef264588f87a06226e811, type: 3}
   <ItemPickupAudioClip>k__BackingField: {fileID: 8300000, guid: 8c058ef86614c0b4c8186b4ea11a08c8, type: 3}
@@ -3729,7 +3729,7 @@ MonoBehaviour:
   m_Padding:
     m_Left: 10
     m_Right: 15
-    m_Top: 0
+    m_Top: 10
     m_Bottom: 0
   m_ChildAlignment: 1
   m_Spacing: 20
@@ -4170,7 +4170,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4835169175662878632, guid: 9a8b20b551c105a4eaf07f15618f0c74, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -91.355
+      value: -101.355
       objectReference: {fileID: 0}
     - target: {fileID: 4835169175662878632, guid: 9a8b20b551c105a4eaf07f15618f0c74, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

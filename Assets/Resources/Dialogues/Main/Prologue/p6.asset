@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: p6
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: ...
+    TextAlignment: 514
+  - <Text>k__BackingField: It's getting cold tonight...
+    TextAlignment: 257
+  - <Text>k__BackingField: I don't like being around so many people. I've never been
+      a party guy.
+    TextAlignment: 257
+  - <Text>k__BackingField: Some kids bump me on their way to a candy stand. And old
+      hag rambles on her phone, a bit too loud for my taste.
+    TextAlignment: 257
+  - <Text>k__BackingField: I don't think I'm gonna stay for long. Just grab some
+      fries and a hot dog, maybe buy some figurine to pretend I really went outside
+      tonight, then go home and sulk in front of the TV again.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 826c553502328bd4392111154da4bca3, type: 2}

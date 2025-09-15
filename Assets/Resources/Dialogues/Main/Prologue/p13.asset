@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: p13
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I spend a couple hours, just flicking the switch between
+      various programs, waiting for the adult channels to go live. If my mom know
+      what she paid the electricity for, she's be so done with me.
+    TextAlignment: 257
+  - <Text>k__BackingField: The next few minutes were brief, flicking my bean to various
+      pin-ups removing their tops, mixed with some quick fantasies of my ex riding
+      me on the couch.
+    TextAlignment: 257
+  - <Text>k__BackingField: We never went that far together, and I wish I hadn't been
+      so cowardly to ask her. She would have probably be down for it. Not like it
+      matters now.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: fb5ffbe82c782f445a925b814ae818ae, type: 2}

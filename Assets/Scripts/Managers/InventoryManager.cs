@@ -37,6 +37,7 @@ public class InventoryManager : MonoBehaviour
         {
             Image icon = child.GetChild(1).GetComponent<Image>();
             icon.sprite = null;
+            icon.color = Color.clear;
         }
     }
 
@@ -47,6 +48,7 @@ public class InventoryManager : MonoBehaviour
             ItemSO item = items[i];
             Image icon = ItemsParent.GetChild(i).GetChild(1).GetComponent<Image>();
             icon.sprite = item.Illustration;
+            icon.color = Color.white;
         }
     }
 

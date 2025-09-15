@@ -10,12 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: Success
+  m_Name: p16
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: Ca fonctionne !
-    TextAlignment: 257
-  <Illustration>k__BackingField: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
-  <Bgm>k__BackingField: {fileID: 8300000, guid: 5aebf4f1e20dd7448a2b60a2ba555ee6, type: 3}
+  - <Text>k__BackingField: ...
+    TextAlignment: 514
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
-  <Branches>k__BackingField: []
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: a665fbccc44cbcf43a1dae647b2c7d05, type: 2}

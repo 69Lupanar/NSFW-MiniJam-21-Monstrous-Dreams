@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
   - <Text>k__BackingField: "La porte a besoin de deux cl\xE9s pour s'ouvrir..."
-    <TextAlignment>k__BackingField: 257
+    TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
-  - <Text>k__BackingField: '- Continuer'
-    <Next>k__BackingField: {fileID: 11400000, guid: 95ef4af928d03974481c91cb8297defd, type: 2}
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 95ef4af928d03974481c91cb8297defd, type: 2}

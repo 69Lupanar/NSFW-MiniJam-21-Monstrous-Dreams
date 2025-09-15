@@ -15,10 +15,10 @@ MonoBehaviour:
   <Texts>k__BackingField:
   - <Text>k__BackingField: "Vous avez obtenu une petite cl\xE9 ! Vous la rangez dans
       votre inventaire."
-    <TextAlignment>k__BackingField: 513
+    TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 11400000, guid: 8b99c66c02e5e1442bd0098ada82d5e5, type: 2}
   <Branches>k__BackingField:
-  - <Text>k__BackingField: '- Continuer'
-    <Next>k__BackingField: {fileID: 11400000, guid: 95ef4af928d03974481c91cb8297defd, type: 2}
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 95ef4af928d03974481c91cb8297defd, type: 2}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: As I get closer to the tower, I notice how decrepit the
+      structure is. This place has been abandoned for, what, centuries?
+    TextAlignment: 257
+  - <Text>k__BackingField: I pull on the knobs of the gate gently, in fear of making
+      the whole thing collapse on my head.
+    TextAlignment: 257
+  - <Text>k__BackingField: I hear an almost imperceptible whistle, like a whisper
+      beckoning me inside, as if I was invited.
+    TextAlignment: 257
+  - <Text>k__BackingField: I feel like an intruder, trespassing on sacred ground,
+      but the voice eases my thoughts, before dissapearing.
+    TextAlignment: 257
+  - <Text>k__BackingField: I am alone inside the hall of the tower.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 2b02aea3b0f533e4da3c0f8e6d2156d9, type: 2}

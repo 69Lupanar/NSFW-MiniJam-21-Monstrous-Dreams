@@ -10,14 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: A1
+  m_Name: A4
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: The mattress feels uncomfortably hard, like I'm sleeping
-      on a sack of rocks. The buzzing in my head only got worse.
+  - <Text>k__BackingField: The walls are covered grotesque portraits, depicting strange
+      creatures only a mad artist would paint.
     TextAlignment: 257
-  - <Text>k__BackingField: It takes me a monumental effort to get up, my eyes quickly
-      blinking to adapt to the sudden change of lighting.
+  - <Text>k__BackingField: The descriptions under these canvases are written in nothing
+      I recognize. The letters swirl and twist before my eyes, forming different
+      words every time I look way.
+    TextAlignment: 257
+  - <Text>k__BackingField: I've never had a dream so lucid before. I'm tempted to
+      pinch myself, but I don't want this to end yet. I'm kind of curious to see
+      where this will lead.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
@@ -25,4 +30,4 @@ MonoBehaviour:
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: c39ecfd6da0e1284abd4bf758fe81b7b, type: 2}
+    Next: {fileID: 11400000, guid: 45c56e9945f4194419eca68bcec7e53f, type: 2}

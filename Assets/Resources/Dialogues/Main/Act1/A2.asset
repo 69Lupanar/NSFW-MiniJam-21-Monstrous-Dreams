@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Dark clouds swirl above my head, ready to burst in a thunderstorm.
+      Pink lightnings crackle in the center of the maelstrom, crowning and ancient-looking
+      stone tower.
+    TextAlignment: 257
+  - <Text>k__BackingField: The land around me is barren of life. Dark hills join
+      steep mountains at the horizon. The lack of wind makes me notice how eerily
+      <i>quiet</i> everything is, despite the storm.
+    TextAlignment: 257
+  - <Text>k__BackingField: Not a living soul in sight.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#99DDFF>... Those pills sure are some strong stuff.
+    TextAlignment: 260
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 51889a03ee42a474583c5035336eef89, type: 2}

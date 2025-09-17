@@ -10,19 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: A1
+  m_Name: M1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: The mattress feels uncomfortably hard, like I'm sleeping
-      on a sack of rocks. The buzzing in my head only got worse.
-    TextAlignment: 257
-  - <Text>k__BackingField: It takes me a monumental effort to get up, my eyes quickly
-      blinking to adapt to the sudden change of lighting.
-    TextAlignment: 257
+  - <Text>k__BackingField: I climb up the stairs.
+    TextAlignment: 0
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
-  <Branches>k__BackingField:
-  - Text: '- Next'
-    Next: {fileID: 11400000, guid: c39ecfd6da0e1284abd4bf758fe81b7b, type: 2}
+  <Branches>k__BackingField: []

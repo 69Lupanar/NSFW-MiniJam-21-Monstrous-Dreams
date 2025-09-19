@@ -10,15 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: M13
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
+  - <Text>k__BackingField: I put my pants back on, slowly, as just touching my aching
+      dick is enough to make me gasp in pleasure. The creature just sits there, watching
+      me, waiting for me to get back up.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
-  - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+  - Text: '- "Happy now?"'
+    Next: {fileID: 11400000, guid: 776ee87da5445aa46bc58a36cd3bf808, type: 2}

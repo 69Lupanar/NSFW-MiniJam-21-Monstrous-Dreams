@@ -10,10 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: death
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
+  - <Text>k__BackingField: <b><i>The world spins violently around me...
+    TextAlignment: 258
+  - <Text>k__BackingField: Only much later, when it calms down, I get a look around
+      me.
+    TextAlignment: 257
+  - <Text>k__BackingField: I was back at the entrance of the tower. It was all a
+      dream, after all. But it felt so real...
+    TextAlignment: 257
+  - <Text>k__BackingField: I must have done something wrong. Perhaps if I try again,
+      maybe I'll have my answers...
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
@@ -21,4 +30,4 @@ MonoBehaviour:
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+    Next: {fileID: 11400000, guid: 45c56e9945f4194419eca68bcec7e53f, type: 2}

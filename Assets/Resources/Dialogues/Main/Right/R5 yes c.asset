@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: R5 yes c
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: 'I approach the grotesque statue. Its posture feels like
+      a parody of those splendid greek statues: Completely naked, save for the thin
+      white veil draped around its shoulders, in an position of embrace, like it''s
+      waiting for her lover to take her right away.'
+    TextAlignment: 257
+  - <Text>k__BackingField: It <i>does</i> look exactly like the statuette I bought.
+      Three pairs of legs, all ending with prehensile 'hands' holding the veil spread.
+      As many pairs of eyes, shiny obsidian perls glowing fiercely under the brazier's
+      light; its gaze is a bit uncomfortable, almost like it's watching my every
+      move.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Approach the other statue.'
+    Next: {fileID: 11400000, guid: 9e7854f04c8555945b77a898c737c266, type: 2}
+  - Text: '- Examine closer.'
+    Next: {fileID: 11400000, guid: 57241fbc900cac14fa7f63fe25ceeeeb, type: 2}

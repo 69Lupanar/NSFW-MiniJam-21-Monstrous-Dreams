@@ -10,15 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: B1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
+  - <Text>k__BackingField: I cross the bridge past the trial of Empathy. My last
+      obstable, a towering gate, has three keyholes of different sizes.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
-  - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+  - Text: '- Try to open the gate'
+    Next: {fileID: 11400000, guid: eb5cf1b005f6a1d40826022b388c80ad, type: 2}
+  - Text: '- Go back'
+    Next: {fileID: 11400000, guid: 118c51eba15752a48bfdcc95d1fa06d0, type: 2}

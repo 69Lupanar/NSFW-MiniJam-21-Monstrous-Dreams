@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f91c212954aab64b8ae4e5bf1d6d310, type: 3}
+  m_Name: branch_has small key
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueConditionSO
+  <Tags>k__BackingField:
+  - smallKey
+  <Next>k__BackingField: {fileID: 11400000, guid: 6bddc6c51d0099748b46119215f56f17, type: 2}
+  <Default>k__BackingField: {fileID: 11400000, guid: dd3562f678972de41b8badc24ba8cc09, type: 2}

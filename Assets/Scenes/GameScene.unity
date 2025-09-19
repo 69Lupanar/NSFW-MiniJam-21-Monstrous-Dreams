@@ -2648,7 +2648,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21bbac782c34d2a48ab06eafacf2f364, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameStart
-  <StartNode>k__BackingField: {fileID: 11400000, guid: 73f450e85e725d04eafda9945792f467, type: 2}
+  <StartNode>k__BackingField: {fileID: 11400000, guid: 45c56e9945f4194419eca68bcec7e53f, type: 2}
   <DialogueTextPrefab>k__BackingField: {fileID: 3979257293635975404, guid: 9a8b20b551c105a4eaf07f15618f0c74, type: 3}
   <DialogueBtnPrefab>k__BackingField: {fileID: 5524331929576234496, guid: 5981484a5bcef264588f87a06226e811, type: 3}
   <ItemPickupAudioClip>k__BackingField: {fileID: 8300000, guid: 8c058ef86614c0b4c8186b4ea11a08c8, type: 3}
@@ -3713,7 +3713,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.ContentSizeFitter
   m_HorizontalFit: 0
-  m_VerticalFit: 2
+  m_VerticalFit: 1
 --- !u!114 &2011719662
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M6
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Her eyes lit up at my proposal, as she wiggles her body
+      excitedly. She does that same gest in front of her mouth-
+    TextAlignment: 257
+  - <Text>k__BackingField: Her eyes lit up at my proposal, as she wiggles her body
+      excitedly. She does that same gest in front of her mouth again...
+    TextAlignment: 257
+  - <Text>k__BackingField: Oh! I get it, she wants me to feed her. With no mouth
+      on her face, I guess she must have been starving for a while... How did she
+      survive for this long with no mouth, anyway?
+    TextAlignment: 257
+  - <Text>k__BackingField: Oh yeah, dream logic. I forgot.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "I have nothing to feed you with."'
+    Next: {fileID: 11400000, guid: eb6933a31fe297846a2ea3af492b7c18, type: 2}

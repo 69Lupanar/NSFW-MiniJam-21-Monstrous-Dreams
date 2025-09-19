@@ -10,15 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: M5 talk what
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
-    TextAlignment: 257
+  - <Text>k__BackingField: No response. I guess she has no clue either.
+    TextAlignment: 260
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
-  - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+  - Text: '- "Who are you?"'
+    Next: {fileID: 11400000, guid: 9f81c98139317024c9464897ea15da6d, type: 2}
+  - Text: '- "What is is place?"'
+    Next: {fileID: 11400000, guid: 87d43993b11cd734b8f874df957a9abe, type: 2}
+  - Text: '- "Can you talk?"'
+    Next: {fileID: 11400000, guid: a8019c1d5cc56664badb7769aa3b64f0, type: 2}

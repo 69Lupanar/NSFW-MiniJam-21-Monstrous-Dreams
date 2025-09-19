@@ -10,10 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: L6 no
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
+  - <Text>k__BackingField: I struggle against the vine, trying to free myself from
+      that mind-melting experience.
+    TextAlignment: 257
+  - <Text>k__BackingField: As I try futilely to punch the petals, I feel something
+      sharp poke beneath the flesh all around me.
+    TextAlignment: 257
+  - <Text>k__BackingField: Then suddenly, the flower churned and contracted violently.
+      I didn't even have the time to let out a single scream. The fangs pierced through
+      my skin as easily as butter.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
@@ -21,4 +29,4 @@ MonoBehaviour:
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+    Next: {fileID: 11400000, guid: 6e0c5f26fce0d3044974f7f5cf6cf057, type: 2}

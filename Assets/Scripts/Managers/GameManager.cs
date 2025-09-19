@@ -187,6 +187,9 @@ public class GameManager : MonoBehaviour
             tmp.alignment = text.TextAlignment;
             tmp.text = text.Text;
             tmp.SetVerticesDirty();
+
+            LayoutRebuilder.ForceRebuildLayoutImmediate(ActiveDialogueTextParent.transform as RectTransform);
+
         }
     }
 

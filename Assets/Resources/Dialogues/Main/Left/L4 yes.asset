@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: L4 yes
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Any rational being would have done anything else. But
+      the musk was so overpowering. I feel hot all over the place, pitching a tent
+      in my pents, my erection so strong it starts to hurt. I <i>need</i> relief,
+      in whatever way I could have.
+    TextAlignment: 257
+  - <Text>k__BackingField: My last piece of cloth didn't even touch the ground that
+      I already jumped inside the flower. Immediately, I regret my mistake.
+    TextAlignment: 257
+  - <Text>k__BackingField: The bulb immediately closes after me. The smell of its
+      nectar, already enthralling, became my entire world. I can't see not hear pretty
+      much anything. Just me, and that sweet, intoxicating smell.
+    TextAlignment: 257
+  - <Text>k__BackingField: The 'petals' already started their work, massaging every
+      part of my body as a strange liquid starts filling the creature's body. Simply
+      touching it turned the sensation up to eleven.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 939baaa9fae9e1a43adf265ad2725446, type: 2}

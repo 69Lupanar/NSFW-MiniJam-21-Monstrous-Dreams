@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M11
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: She barely deigns rolling her eyes before lunging on my
+      crotch, engulfing it in its entirety before clasping her mask back down, locking
+      me inside of her.
+    TextAlignment: 257
+  - <Text>k__BackingField: I tense up, fearing she might actually bite it off, but
+      I force myself to stay put. I don't even recall seeing any fang in her mouth.
+    TextAlignment: 257
+  - <Text>k__BackingField: She doesn't waste any time, and sends her slimy tendrils
+      wrap my entire penis, leaving a few of them to tend to my ballsack.
+    TextAlignment: 257
+  - <Text>k__BackingField: The mass of muscles immediately starts pumping alongside
+      my shaft, doing their best to stimulate every inch of my genitals.
+    TextAlignment: 257
+  - <Text>k__BackingField: I can't help but dig my fingers inside her fur, unable
+      to retain the moans of pleasure escaping from my mouth.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: baebf21b96435404e840d51f6631dc4e, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: L8
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I cannot tell how long it took for the plant to be satisfied
+      by my body. My ballsack felt like on the verge of bursting with each pulse.
+    TextAlignment: 257
+  - <Text>k__BackingField: As fear started to take over the pleasure, I heard a squelching
+      sound. The pistil finally let my cock spring free, before the mass of muscles
+      forcefully expelled me from its mouth.
+    TextAlignment: 257
+  - <Text>k__BackingField: Laying on the ground covered in ooze and cum, it takes
+      ma a few minutes to catch my breath, quickly recollecting what just happened.
+      I can hear a rumble at my feet, the ravenous plant seemingly burrowing int
+      the ground.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 1d21b800b53ac9f4195d0b797fa48c4a, type: 2}

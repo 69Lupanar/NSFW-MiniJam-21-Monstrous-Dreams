@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: L5
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I couldn't help from letting a moan come out. The pistil
+      seems encouraged by my reaction, and starts coiling around my dick, more prehensile
+      than I thought.
+    TextAlignment: 257
+  - <Text>k__BackingField: I feel the pistil making its way to the tip of my penis.
+      I have seen too much porn material NOT to imagine what was going to happen.
+      It feels too good to be true.
+    TextAlignment: 257
+  - <Text>k__BackingField: Then, to my horror, I feel the pistil extending at its
+      tip, trying to push against my urethra. I can't believe it. This thing is trying
+      to worm its way into my dick!
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Try to free yourself!'
+    Next: {fileID: 11400000, guid: d5d387a4c40f539429fe59d6debd0d22, type: 2}
+  - Text: '- Let it do its thing.'
+    Next: {fileID: 11400000, guid: 7b61443f7d87bba4c8fa76e31ff30282, type: 2}

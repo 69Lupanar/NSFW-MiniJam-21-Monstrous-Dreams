@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: L2 no small key
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: The stone surface of this part of the caves is covered
+      in grey moss. There is a weird, gripping smell, something growing more and
+      more in presence as I venture into the room. It's... Kind of sweet? Like a
+      cup of fruits fresh cut up.
+    TextAlignment: 257
+  - <Text>k__BackingField: 'At the other side of the room, a stone pedestal blocks
+      my way. Alien inscriptions cross the grey marble. The symbols seem to twist
+      and dance before my eyes, before forming actual words, worming their way into
+      my mind:'
+    TextAlignment: 257
+  - <Text>k__BackingField: '<color=#FF99DD>"Prove your courage and your audacity.
+
+      Embrace
+      the pleasures of the flesh."'
+    TextAlignment: 260
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: b3371549da7e0334393af2d20a858a05, type: 2}

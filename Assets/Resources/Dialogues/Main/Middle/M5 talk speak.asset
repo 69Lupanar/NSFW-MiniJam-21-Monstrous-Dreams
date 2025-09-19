@@ -10,15 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
-  m_Name: L1
+  m_Name: M5 talk speak
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I pick the leftmost staircase and climb down.
+  - <Text>k__BackingField: The creature shakes its head. Finally, an answer.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
-  - Text: '- Next'
-    Next: {fileID: 11400000, guid: 002f4997888212a438171b55125b07c3, type: 2}
+  - Text: '- "Who are you?"'
+    Next: {fileID: 11400000, guid: 9f81c98139317024c9464897ea15da6d, type: 2}
+  - Text: '- "What are you?"'
+    Next: {fileID: 11400000, guid: f2b9713dc04c84d4184f35f5aba0b88b, type: 2}
+  - Text: '- "What is this place?"'
+    Next: {fileID: 11400000, guid: 87d43993b11cd734b8f874df957a9abe, type: 2}
+  - Text: '- "Can I help you?"'
+    Next: {fileID: 11400000, guid: 6c9ae845a022a1b42976f4fdaeb39dc6, type: 2}

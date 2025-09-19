@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: R6 c 5
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: As I pull out, more by necesity than envy, the brazier
+      finally comes to an end. The bright orange flames make way for blue-ish embers,
+      then cinders. Finally, all that's left is the smoke from the residual ashes.
+    TextAlignment: 257
+  - <Text>k__BackingField: As I approach the recipient, something shiny glitters
+      amongst the black coal.
+    TextAlignment: 257
+  - <Text>k__BackingField: A pretty big key, unearthed by the flames burning out
+      everything the brazier had to offer. Maybe it opens something in the area.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 7ef92ea9e48c16245a02a51517e8052b, type: 2}

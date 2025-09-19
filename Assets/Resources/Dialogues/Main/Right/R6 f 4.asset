@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: R6 f 4
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Eventually, I give in to the sensations. I explode inside
+      the statue, my slime coating every inch of her insides, her eyes taunting me
+      all the way until the end.
+    TextAlignment: 257
+  - <Text>k__BackingField: Then, as I finally get to pull out, I take a last look
+      at her face, and she seems... Empty? The light in her eyes is gone, same thing
+      for that otherworldly attractiveness I felt around her.
+    TextAlignment: 257
+  - <Text>k__BackingField: She looks diminished, so much so that it seems her facial
+      features were eroding away by the second. What was left of my ex slowly fades
+      away, until the godly statue was nothing left than a vaguely human-shaped cold
+      rock.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 6ae9304e7213525418bb10a5bb514ce9, type: 2}

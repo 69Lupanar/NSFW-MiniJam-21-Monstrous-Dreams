@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: R6 c 4
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I picked up the pace once more, pouding at the beast like
+      my life depended on it. I try to grab one of her massive tits, half-expecting
+      it to elicit a reaction.
+    TextAlignment: 257
+  - <Text>k__BackingField: 'The flame in her eyes seems to glow warmer, as her insides
+      suck me in with all the might in the world, unwillng to let us part ways.
+
+      Eventually,
+      the overload of sensations becmes too much for me.'
+    TextAlignment: 257
+  - <Text>k__BackingField: ' The brazier behind us grows into an enormous flame as
+      I erupt in her, coating her insides with my spunk and letting a moan of pleasure
+      echo in the room. Strangely, the heat doesn''t bother me anymore, my mind melted
+      by the experience.'
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: e7e02c77678f4b04f9f68f446f4e1120, type: 2}

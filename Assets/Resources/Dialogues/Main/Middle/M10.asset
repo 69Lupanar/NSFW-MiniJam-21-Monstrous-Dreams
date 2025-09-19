@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M10
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: There was a loud 'pop', and her porcelain-like face split
+      in half vertically, revealing pink tendrils linking both jawbones to the head.
+      The inside of her head was covered in pink flesh, strong muscles, and countless
+      flesh wriggling out freely in the open now that their protection was taken
+      off.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#99DDFF>O-oh wow...
+    TextAlignment: 260
+  - <Text>k__BackingField: In a surprising human display of emotion, the creature
+      looks away, seemingly embarassed by her appearance. I guess she is not used
+      to people seeing her without her mask.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Encourage her'
+    Next: {fileID: 11400000, guid: d6a62cc6281190c4d8539f02c0add34d, type: 2}
+  - Text: '- "L-Look, I just want to cross..."'
+    Next: {fileID: 11400000, guid: 595cd1e5797919d419213e05674e88cb, type: 2}

@@ -19,4 +19,6 @@ MonoBehaviour:
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
-  <Branches>k__BackingField: []
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 6e49a6e70f210ca42a2d880305d13617, type: 2}

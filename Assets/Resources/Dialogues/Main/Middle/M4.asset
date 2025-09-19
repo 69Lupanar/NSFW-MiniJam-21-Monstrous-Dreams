@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I only now notice a chain collar attached to the guardian's
+      neck. A golden key is interlocked to it.
+    TextAlignment: 257
+  - <Text>k__BackingField: As I reach up to detach it from its owner, I hear a low
+      rumbing sound coming from the statue's throat, before it lurches to life!
+    TextAlignment: 257
+  - <Text>k__BackingField: I only have the time to back away one or two steps as
+      the creature leaps in front of me, slowly pacing in a straight line in front
+      of the pedestal. It hisses at me, a sound closer to a growl than anything,
+      considering it doesn't even have a mouth.
+    TextAlignment: 257
+  - <Text>k__BackingField: I have to find a way past this guardian if I want to continue.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Force the way through'
+    Next: {fileID: 11400000, guid: 00a374b0bcad73f48be4e5463562f533, type: 2}
+  - Text: '- Try to talk to the creature'
+    Next: {fileID: 11400000, guid: 9f81c98139317024c9464897ea15da6d, type: 2}
+  - Text: '- Run away downstairs'
+    Next: {fileID: 11400000, guid: 6d75ea571a3639b44aad2215e5e10e76, type: 2}

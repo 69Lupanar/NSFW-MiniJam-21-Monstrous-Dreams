@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M10 yes
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: Almost by reflex, I try to pat her on the head. She tenses
+      herself, clearly not used to such acts of kindness. But she ends up relaxing
+      after a few seconds, realizing I'm not trying to pull some dirty tricks on
+      her.
+    TextAlignment: 257
+  - <Text>k__BackingField: Almost by reflex, I try to pat her on the head. She tenses
+      herself, clearly not used to such acts of kindness. But she ends up relaxing
+      after a few seconds, realizing I'm not trying to pull some dirty tricks on
+      her.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#99DDFF>Hey, don't worry, big girl. You scare me
+      more with that mask on, to be honest.
+    TextAlignment: 260
+  - <Text>k__BackingField: She seems almost dissapointed when I finally take my hand
+      off of her head.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "Just... Don''t bite it off?"'
+    Next: {fileID: 11400000, guid: 919d1fb11470a854ea51b9e895f648c5, type: 2}

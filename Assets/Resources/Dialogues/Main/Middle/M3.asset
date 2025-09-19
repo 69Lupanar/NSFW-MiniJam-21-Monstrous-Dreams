@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: At the center of the bridge, a stone pedestal blocks my
+      way. Perched on top of it is a statue of a strange quadrupedal animal with
+      a somewhat human face. The latter is devoid of any feature, save the pitch-black
+      obsidian eyes glowing with an eerie white, reflecting what little light from
+      the torches maanges to reach them.
+    TextAlignment: 257
+  - <Text>k__BackingField: The creature was completely naked, its modesty only barely
+      saved by the thick fur on its limbs. Its belly was completely exposed though,
+      as well as the small pair of nippleless tits hidden behind its front legs.
+    TextAlignment: 257
+  - <Text>k__BackingField: 'Alien inscriptions cross the grey marble. The symbols
+      seem to twist and dance before my eyes, before forming actual words, worming
+      their way into my mind:'
+    TextAlignment: 257
+  - <Text>k__BackingField: '<color=#FF99DD>"Prove your empathy and your understanding.
+
+      Quench
+      your primal urges."'
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: b0d5dbb90d79b5f4d8df41e097e941dd, type: 2}

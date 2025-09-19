@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: M5 talk help
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: The creature tilts her head for a moment, before making
+      a weird sign before her face, where her mouth should be. She tries again a
+      few times, seeing I don't understand what she's trying to say.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "Who are you?"'
+    Next: {fileID: 11400000, guid: 9f81c98139317024c9464897ea15da6d, type: 2}
+  - Text: '- "What are you?"'
+    Next: {fileID: 11400000, guid: f2b9713dc04c84d4184f35f5aba0b88b, type: 2}
+  - Text: '- "What is this place?"'
+    Next: {fileID: 11400000, guid: 87d43993b11cd734b8f874df957a9abe, type: 2}
+  - Text: '- "Are you hungry?"'
+    Next: {fileID: 11400000, guid: a32088758dad8f344b2c5fb266f0c968, type: 2}

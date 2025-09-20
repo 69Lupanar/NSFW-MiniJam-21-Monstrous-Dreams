@@ -26,7 +26,7 @@ MonoBehaviour:
   - <Text>k__BackingField: <color=#99DDFF>... Those pills sure are some strong stuff.
     TextAlignment: 260
   <Illustration>k__BackingField: {fileID: 0}
-  <Bgm>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: 6ae20dfad5b2570459c7538fe142c5b2, type: 3}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:

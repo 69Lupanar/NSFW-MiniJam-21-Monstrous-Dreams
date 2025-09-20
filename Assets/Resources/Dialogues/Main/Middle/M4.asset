@@ -28,7 +28,7 @@ MonoBehaviour:
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
-  <SFX>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 8300000, guid: 76d88f375b2d97047ab04a9a28a411f1, type: 3}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Force the way through'

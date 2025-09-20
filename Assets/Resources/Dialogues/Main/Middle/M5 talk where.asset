@@ -16,7 +16,7 @@ MonoBehaviour:
   - <Text>k__BackingField: The creature starts relaxing a little. But instead of
       answering me, it started scratching behind one of its ears, unbothered by my
       question, her unblinking gaze still fixated on me.
-    TextAlignment: 260
+    TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}

@@ -23,7 +23,7 @@ MonoBehaviour:
       buzz in my head.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
-  <Bgm>k__BackingField: {fileID: 8300000, guid: 6ae20dfad5b2570459c7538fe142c5b2, type: 3}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: 85ce25c78a710b84a871d983df1f1caa, type: 3}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:

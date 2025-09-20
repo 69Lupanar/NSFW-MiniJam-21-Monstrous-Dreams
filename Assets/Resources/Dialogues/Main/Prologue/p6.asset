@@ -29,7 +29,7 @@ MonoBehaviour:
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
-  <SFX>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 8300000, guid: a9c2556973f40e540818b66454bf1fea, type: 3}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: C3
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I put her back where she was previously... And hear a
+      strange mettalic 'chink' under her. Cranking my neck to better see...
+    TextAlignment: 257
+  - <Text>k__BackingField: Three keys have appeared on my shelf. A small one, a golden
+      one, and a large one. The same keys from my dream, laying around the statuette.
+    TextAlignment: 257
+  - <Text>k__BackingField: I extend my hand, fearing this is an hallucination...
+      But the metallic texture is quite real. The keys feel rugged and heavy in my
+      hands. This isn't my mind playing tricks on me.
+    TextAlignment: 257
+  - <Text>k__BackingField: I take another glance at the statuette. Immobile, the
+      little idol is turned towards me, the strands of light from the store lighting
+      her lifeless ruby eyes. Something seems to dance inside the jewels, but it
+      dissapears as soon as I notice it.
+    TextAlignment: 257
+  - <Text>k__BackingField: Was it all really a dream...?
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField: []

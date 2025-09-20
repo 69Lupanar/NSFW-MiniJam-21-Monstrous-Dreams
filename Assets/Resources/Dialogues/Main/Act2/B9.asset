@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B9
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: <color=#FF99DD>Ho ho, yes. You species has always been
+      a curious bunch, weren't you? Always exploring new horizons and experimenting.
+      Back then, it took a lot to scare of a human. Especially the most... Libidinous
+      ones.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD>But I was glad to discover they were more
+      than up to the task.
+    TextAlignment: 260
+  - <Text>k__BackingField: She now shifts on her belly, facing me, taking a more
+      comfortable pose and a better look at me, her massive tits dissapearing from
+      my view.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FF99DD>As of now... Before I grant you your reward
+      to arriving this far, I assume you must have some questions for me, yes?
+    TextAlignment: 260
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "What happened to your cult?"'
+    Next: {fileID: 11400000, guid: 2556c021282d1cf45a00cf7ba38188fc, type: 2}
+  - Text: '- "What is this place?"'
+    Next: {fileID: 11400000, guid: ed77ef69b09794d458a8f23e5a7d6021, type: 2}
+  - Text: '- "How did I end up here?"'
+    Next: {fileID: 11400000, guid: ff757848546bde744ac65aaf1691eeec, type: 2}
+  - Text: '- "You mentioned a ''reward''?"'
+    Next: {fileID: 11400000, guid: 1b974c4d9270ee440b4c5f6df71809ba, type: 2}
+  - Text: '- "I have no more questions."'
+    Next: {fileID: 11400000, guid: 310c89589aaf2b247af5a8ee27aff595, type: 2}

@@ -13,13 +13,20 @@ MonoBehaviour:
   m_Name: B2 has all keys
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I cross the bridge past the trial of Empathy. My last
-      obstable, a towering gate, has three keyholes of different sizes.
+  - <Text>k__BackingField: My hand dives into my procket and retrieves all three
+      keys I gathered during my dream.
+    TextAlignment: 257
+  - <Text>k__BackingField: With a 'click', each one of them breaks their respective
+      locks wide open without any issue.
+    TextAlignment: 257
+  - <Text>k__BackingField: As I wonder how move the massive door, the solution presents
+      itself to me, as it starts magically moving on its own in a loud creaking,
+      like it hasn't been opened in a century.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
-  <Bgm>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: 8cdbaba301eedb54bb6913f99537a275, type: 3}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: fefcdbf68e690524c95c7d2f7f4a41ab, type: 2}
+    Next: {fileID: 11400000, guid: aa3f8352698fce44c85f8cf698321cc7, type: 2}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B15
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I start to wonder if the 'reward' really was for me, or
+      for jer. In any case, I oblige, thrusting faster and faster, deeper and deeper,
+      letting moans of ecstasy slip from my lips. I can feel the tip of my dick hitting
+      the bottom of her insides, bringing me shivers of pleasure every time they
+      do so.
+    TextAlignment: 257
+  - <Text>k__BackingField: Cxuixa apparently appreciates it just as much, her moans
+      starting to feel the room at the same time as mine. For such an imposing beast,
+      she sure has a sweet voice. The sound of her ragged breath, mixed with the
+      sloppy sound of our mating, is enough to make my climax bubble up to the surface.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: becec115d353cec449bdccb422a67365, type: 2}

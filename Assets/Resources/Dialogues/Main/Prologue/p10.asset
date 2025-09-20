@@ -24,17 +24,10 @@ MonoBehaviour:
       way. I grab a snack, watch some kinds fighting with water guns, but the ennui
       quickly rears its head again.
     TextAlignment: 257
-  - <Text>k__BackingField: I turn tails and quickly head back home. During all this
-      time, the statuette still radiates a faint heat in my pocket, so tenuous that
-      I might just be imagining it.
-    TextAlignment: 257
-  - <Text>k__BackingField: It's probably whatever rock this thing is made of. It's
-      not uncomfortable or anything. It's... Quite soothing, actually.
-    TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: 72435c35c45d9254c958a50a58a16b88, type: 2}
+    Next: {fileID: 11400000, guid: aa6e7fe21e3451844968f7b5316336b1, type: 2}

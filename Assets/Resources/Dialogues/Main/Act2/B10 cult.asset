@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B10 cult
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: She lets out a huff of frustration. I fear for a moment
+      that I've angered her, but her ire is directed more to the empty air than anything
+      else.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD><i>They</i> arrived. The new gods, wearing
+      your kind's faces, promising you civilisation and mercy. They stripped us of
+      your devotion, they turned you away from the natural ordre of things, and chastised
+      those you stayed loyal to their vows to us... Calling us "pagan monsters",
+      the gall!
+    TextAlignment: 260
+  - <Text>k__BackingField: She lets out another growl. I wait for her to ease her
+      temper soomewhat before continuing.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#99DDFF>I must admit I've never seen quite something-
+      someone, like you.
+    TextAlignment: 260
+  - <Text>k__BackingField: Cxuixa seems a bit saddened by this information.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD>It is not surprising. The new gods and
+      their followers did their best to hide every trace of our existence from your
+      plane. Places of worship, shrines, tablets and effigies, not a thing escaped
+      their lust for more power over your kind. Labelled as monsters, reviled by
+      all, we had no choice but to leave, and bide our time.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD>Since then, I hide in this realm, gathering
+      my strength, and challenging new souls worthy of my worship, such as yours.
+    TextAlignment: 260
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "What is this place?"'
+    Next: {fileID: 11400000, guid: ed77ef69b09794d458a8f23e5a7d6021, type: 2}
+  - Text: '- "How did I end up here?"'
+    Next: {fileID: 11400000, guid: ff757848546bde744ac65aaf1691eeec, type: 2}
+  - Text: '- "You mentioned a ''reward''?"'
+    Next: {fileID: 11400000, guid: 1b974c4d9270ee440b4c5f6df71809ba, type: 2}
+  - Text: '- "I have no more questions."'
+    Next: {fileID: 11400000, guid: 310c89589aaf2b247af5a8ee27aff595, type: 2}

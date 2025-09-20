@@ -13,13 +13,21 @@ MonoBehaviour:
   m_Name: B3
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: I cross the bridge past the trial of Empathy. My last
-      obstable, a towering gate, has three keyholes of different sizes.
+  - <Text>k__BackingField: Behind the door lies the observatory room. I could barely
+      see it as a glowing spot while I was outside the tower, but now that I'm in,
+      it feels impossibly larger on the inside than the outside.
+    TextAlignment: 257
+  - <Text>k__BackingField: The stars glow brightly outside. The storm seems to have
+      receded during my trials. So many constellation and nebulae of all colours
+      are visible tonight, whose names are completely eluding me.
+    TextAlignment: 257
+  - <Text>k__BackingField: There is this sensation of... Peace, coming from this
+      place, like a unviolable safe-heaven I'm privileged to join in.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
-  <Bgm>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: 5aebf4f1e20dd7448a2b60a2ba555ee6, type: 3}
   <SFX>k__BackingField: {fileID: 0}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'
-    Next: {fileID: 11400000, guid: eb5cf1b005f6a1d40826022b388c80ad, type: 2}
+    Next: {fileID: 11400000, guid: fefcdbf68e690524c95c7d2f7f4a41ab, type: 2}

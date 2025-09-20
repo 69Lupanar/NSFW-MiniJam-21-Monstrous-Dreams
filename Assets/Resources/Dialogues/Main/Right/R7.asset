@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: R7
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: <b><i>Big key unlocked!
+  - <Text>k__BackingField: <b><i>Obtained a large key!
     TextAlignment: 514
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}

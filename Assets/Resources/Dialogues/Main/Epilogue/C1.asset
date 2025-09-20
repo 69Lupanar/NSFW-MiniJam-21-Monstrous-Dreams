@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: C1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: The decor around me fades into nothingness. My body feels
+      as heavy as an anvil as I fall down the void. The old buzzing in my head, silent
+      this whole time, fills my world little by little until the pain forces me to
+      open my eyes for good.
+    TextAlignment: 257
+  - <Text>k__BackingField: I wake up. Back in my old apartment. The buzzing is louder
+      than before, my old alarm signaling the end of my respite.
+    TextAlignment: 257
+  - <Text>k__BackingField: I sluggishly reach to turn off my phone. The buzzing finaly
+      stops. I return slowly on my back, my half-shut eyes staring at the blank grey
+      ceiling.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 8300000, guid: 85ce25c78a710b84a871d983df1f1caa, type: 3}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 3790e918535415c4986ba65712984901, type: 2}

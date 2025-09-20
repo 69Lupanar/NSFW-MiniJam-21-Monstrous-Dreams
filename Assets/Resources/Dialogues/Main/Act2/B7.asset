@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B7
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: <color=#99DDFF>I-I'm sorry, I don't understand... I have
+      n-no idea what ritual... W-Who are...?
+    TextAlignment: 260
+  - <Text>k__BackingField: I feel shameful for my words failing on me in such a moment.
+      The creature thankfully senses my discomfort, and extends her tail to nudge
+      me closer.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FF99DD>Some explanations might clear off your
+      apprehensions, little one.
+    TextAlignment: 260
+  - <Text>k__BackingField: She lifts her head and takes a more formal posture, perhaps
+      more suitable of someone her stature.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 36cd7a8872a4a2f44a86456de1e48809, type: 2}

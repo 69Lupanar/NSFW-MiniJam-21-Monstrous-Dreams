@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: C2
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: I couldn't remember every single detail about my dream.
+      But I could remember her. Her body, her voice, the sensations. For a dream,
+      it felt so real...
+    TextAlignment: 257
+  - <Text>k__BackingField: Tears form in my eyes, first as mere droplets, then a
+      steady stream rolling on my cheeks. I swipe them with my fist, but the bitterness
+      stays.
+    TextAlignment: 257
+  - <Text>k__BackingField: In the corner of my eye, the statuette is still sitting
+      on my bedside table, directly facing me. I pick it up and roll it between my
+      fingers, appreciating the craftmanship that went into its creation. Maybe I
+      could find her a more suitable place where she wont gather dust as much.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: 3b538a001e59f56498d6e79bf7faafc2, type: 2}

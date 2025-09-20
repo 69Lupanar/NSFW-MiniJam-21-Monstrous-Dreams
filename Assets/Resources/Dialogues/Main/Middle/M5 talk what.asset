@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
   - <Text>k__BackingField: No response. I guess she has no clue either.
-    TextAlignment: 260
+    TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
   <SFX>k__BackingField: {fileID: 0}

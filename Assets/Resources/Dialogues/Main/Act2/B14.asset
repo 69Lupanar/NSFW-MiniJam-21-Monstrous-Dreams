@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B14
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: She lays a claw on the back of my head, inching me closer
+      to one of her udders. I gulp it greedily, letting my tongue explore the slightly
+      rougher texture around its nipple.
+    TextAlignment: 257
+  - <Text>k__BackingField: Cxuixa certainly seems to appreviate my fervour, as she
+      moves her hips a bit faster, her pussy undulating around my shaft, bringing
+      the sensations to the next level.
+    TextAlignment: 257
+  - <Text>k__BackingField: I cusp both of her front tits with one hand each, switching
+      rows from time to time, very lightly pinching her nipples to see her reaction
+      without hurting her. She doesn't seem to mind, but she clearly appreciates
+      what's going down there a lot more.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FF99DD>Don't keep me waiting, little one. Show
+      me what you learned down there. Bring me relief.
+    TextAlignment: 260
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- Next'
+    Next: {fileID: 11400000, guid: ce8ae554abec35f409b0f8e1d8979403, type: 2}

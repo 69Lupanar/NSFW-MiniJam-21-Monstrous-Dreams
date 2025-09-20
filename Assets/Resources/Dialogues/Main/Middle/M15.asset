@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: M15
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: <b><i>Golden key unlocked!
+  - <Text>k__BackingField: <b><i>Obtained a golden key!
     TextAlignment: 514
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}

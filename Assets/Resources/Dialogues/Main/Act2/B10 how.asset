@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ea90144ef4ac7a4699131a7438e0496, type: 3}
+  m_Name: B10 how
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
+  <Texts>k__BackingField:
+  - <Text>k__BackingField: <color=#FF99DD>I summoned you, of course! I looked out
+      for the purest soul my gaze could scrutinize, the one most worthy enough to
+      assist me in my quest of purging the world from the new gods' influence. And
+      I finally found you.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#99DDFF>I-I'm sorry, I don't see what you've found
+      in me... I just bought a statuette that just looked like you...
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD>Yes, one of my very few remaining eyes
+      and ears in your plane. But do not berate your validity, little one. I sense
+      great potential in you.
+    TextAlignment: 260
+  - <Text>k__BackingField: Her three pairs of eyes suddenly lock deep in your own,
+      and you feel a bit ill at ease with her insistant gaze drilling into your head.
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FF99DD>Yes, I see... A crushing obligation, day
+      to day, to be a part of the cabale the new gods laid for your kind. An obligation
+      that leaves you drained of your energy and will and leaves you purposeless
+      in life.
+    TextAlignment: 260
+  - <Text>k__BackingField: <color=#FF99DD>I see... A lost love, that you cannot help
+      but remininsce over every waking moment of your life. A missed opportunity
+      that will probably never come back.
+    TextAlignment: 260
+  - <Text>k__BackingField: 'She must have been sensing my discomfort at her words,
+      as she nudges me with the tip of her muzzle, and tries to bring back some comfort
+      with her angelic voice:'
+    TextAlignment: 257
+  - <Text>k__BackingField: <color=#FF99DD>As I said, be not afraid. All your worries
+      will be gone soon enough. You are with me now, after all.
+    TextAlignment: 257
+  <Illustration>k__BackingField: {fileID: 0}
+  <Bgm>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 0}
+  <Item>k__BackingField: {fileID: 0}
+  <Branches>k__BackingField:
+  - Text: '- "What happened to your cult?"'
+    Next: {fileID: 11400000, guid: 2556c021282d1cf45a00cf7ba38188fc, type: 2}
+  - Text: '- "What is this place?"'
+    Next: {fileID: 11400000, guid: ed77ef69b09794d458a8f23e5a7d6021, type: 2}
+  - Text: '- "You mentioned a ''reward''?"'
+    Next: {fileID: 11400000, guid: 1b974c4d9270ee440b4c5f6df71809ba, type: 2}
+  - Text: '- "I have no more questions."'
+    Next: {fileID: 11400000, guid: 310c89589aaf2b247af5a8ee27aff595, type: 2}

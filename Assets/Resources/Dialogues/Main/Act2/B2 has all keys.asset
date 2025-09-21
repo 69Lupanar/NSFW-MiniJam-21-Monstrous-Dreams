@@ -25,7 +25,7 @@ MonoBehaviour:
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 8300000, guid: 8cdbaba301eedb54bb6913f99537a275, type: 3}
-  <SFX>k__BackingField: {fileID: 0}
+  <SFX>k__BackingField: {fileID: 8300000, guid: af8cdb469975f7843b5ca2e425bde85f, type: 3}
   <Item>k__BackingField: {fileID: 0}
   <Branches>k__BackingField:
   - Text: '- Next'

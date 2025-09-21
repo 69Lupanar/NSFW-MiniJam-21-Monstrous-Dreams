@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: SmallKey
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   <ItemName>k__BackingField: Small Key
-  <Illustration>k__BackingField: {fileID: 21300000, guid: 390ae5fb9cd30e34285551cba2cd3d6a, type: 3}
+  <Illustration>k__BackingField: {fileID: 21300000, guid: 44e73ad2171e1394eac20a51f96593ce, type: 3}

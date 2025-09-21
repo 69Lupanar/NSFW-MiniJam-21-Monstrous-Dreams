@@ -46,16 +46,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
   _clips:
   - _clip: {fileID: 8300000, guid: b8704073577eb924f849e22c9d0d1318, type: 3}
-    _defaultVolume: 0.3
+    _defaultVolume: 0.2
     _loop: 1
   - _clip: {fileID: 8300000, guid: 6ae20dfad5b2570459c7538fe142c5b2, type: 3}
-    _defaultVolume: 0.3
+    _defaultVolume: 0.2
     _loop: 1
   - _clip: {fileID: 8300000, guid: 85ce25c78a710b84a871d983df1f1caa, type: 3}
-    _defaultVolume: 0.3
+    _defaultVolume: 0.2
     _loop: 1
   - _clip: {fileID: 8300000, guid: 5aebf4f1e20dd7448a2b60a2ba555ee6, type: 3}
-    _defaultVolume: 0.3
+    _defaultVolume: 0.2
     _loop: 1
   - _clip: {fileID: 8300000, guid: 8cdbaba301eedb54bb6913f99537a275, type: 3}
     _defaultVolume: 0
@@ -67,26 +67,32 @@ MonoBehaviour:
     _defaultVolume: 0.1
     _loop: 0
   - _clip: {fileID: 8300000, guid: d44131a07b6a86c46b0d3f077a72fd07, type: 3}
-    _defaultVolume: 0.1
+    _defaultVolume: 1
     _loop: 0
   - _clip: {fileID: 8300000, guid: f9b6b62f2899548419685550d4e4d53f, type: 3}
-    _defaultVolume: 0.1
+    _defaultVolume: 1
     _loop: 0
   - _clip: {fileID: 8300000, guid: b93dbc25b3afd7443af8b1057f9053e7, type: 3}
-    _defaultVolume: 0.2
+    _defaultVolume: 0.75
     _loop: 0
   - _clip: {fileID: 8300000, guid: 76d88f375b2d97047ab04a9a28a411f1, type: 3}
-    _defaultVolume: 0.1
+    _defaultVolume: 1
     _loop: 0
   - _clip: {fileID: 8300000, guid: e72753fe2bb128045a3029c12ef653cf, type: 3}
-    _defaultVolume: 0.1
+    _defaultVolume: 0.5
     _loop: 0
   - _clip: {fileID: 8300000, guid: 50b57f6e4cb42f44cb99747f06f6af93, type: 3}
-    _defaultVolume: 0.2
+    _defaultVolume: 0.5
     _loop: 0
   - _clip: {fileID: 8300000, guid: 36c81e24df86d974893ce368a64ce24e, type: 3}
-    _defaultVolume: 0.1
+    _defaultVolume: 0.5
     _loop: 0
   - _clip: {fileID: 8300000, guid: 1107787418c98a4449dd5112769070f5, type: 3}
+    _defaultVolume: 1
+    _loop: 0
+  - _clip: {fileID: 8300000, guid: af8cdb469975f7843b5ca2e425bde85f, type: 3}
+    _defaultVolume: 1
+    _loop: 0
+  - _clip: {fileID: 8300000, guid: 3d5f611e3c8c69649b972d8c459aea94, type: 3}
     _defaultVolume: 1
     _loop: 0

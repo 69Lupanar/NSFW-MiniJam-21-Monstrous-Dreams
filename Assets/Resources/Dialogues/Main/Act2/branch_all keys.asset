@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueConditionSO
   <Tags>k__BackingField:
   - smallKey
-  - goldenKey
+  - goldKey
   - bigKey
   <Next>k__BackingField: {fileID: 11400000, guid: 4dbc0c77702b3224d857e02ebfb91d84, type: 2}
   <Default>k__BackingField: {fileID: 11400000, guid: 2483ee6c7d51b624da78dcffd1cd7806, type: 2}

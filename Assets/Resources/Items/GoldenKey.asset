@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: GoldenKey
   m_EditorClassIdentifier: Assembly-CSharp::ItemSO
   <ItemName>k__BackingField: GoldenKey
-  <Illustration>k__BackingField: {fileID: 21300000, guid: d8e473ea7835fe54499892dba348c23b, type: 3}
+  <Illustration>k__BackingField: {fileID: 21300000, guid: cd96934c1b19fd941a4e02caf3dc0ba6, type: 3}

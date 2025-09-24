@@ -19,8 +19,8 @@ MonoBehaviour:
   - <Text>k__BackingField: The sudden appearance startles me.
     TextAlignment: 257
   - <Text>k__BackingField: At the very edge of the room stands a four-poster bed,
-      too large for any couple, the curtains pulled away to reveal the owner of this
-      tower.
+      too large for any normal couple, the curtains pulled away to reveal the owner
+      of this tower.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}

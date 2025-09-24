@@ -18,11 +18,6 @@ MonoBehaviour:
       after a few seconds, realizing I'm not trying to pull some dirty tricks on
       her.
     TextAlignment: 257
-  - <Text>k__BackingField: Almost by reflex, I try to pat her on the head. She tenses
-      herself, clearly not used to such acts of kindness. But she ends up relaxing
-      after a few seconds, realizing I'm not trying to pull some dirty tricks on
-      her.
-    TextAlignment: 257
   - <Text>k__BackingField: <color=#99DDFF>Hey, don't worry, big girl. You scare me
       more with that mask on, to be honest.
     TextAlignment: 260

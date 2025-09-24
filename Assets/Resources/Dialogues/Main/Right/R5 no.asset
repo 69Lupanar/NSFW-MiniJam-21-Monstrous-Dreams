@@ -16,7 +16,7 @@ MonoBehaviour:
   - <Text>k__BackingField: I leave the room with the statues for now. I'll come back
       here later once I know more about this place.
     TextAlignment: 257
-  - <Text>k__BackingField: The flame  in my back seems to lose in intensity, as I
+  - <Text>k__BackingField: The flame in my back seems to lose in intensity, as I
       can somewhat feel the air getting chilier as I'm about to make my way up.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}

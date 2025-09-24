@@ -19,12 +19,12 @@ MonoBehaviour:
     TextAlignment: 257
   - <Text>k__BackingField: Tears form in my eyes, first as mere droplets, then a
       steady stream rolling on my cheeks. I swipe them with my fist, but the bitterness
-      stays.
+      in my throat stays.
     TextAlignment: 257
   - <Text>k__BackingField: In the corner of my eye, the statuette is still sitting
       on my bedside table, directly facing me. I pick it up and roll it between my
       fingers, appreciating the craftmanship that went into its creation. Maybe I
-      could find her a more suitable place where she wont gather dust as much.
+      could find her a more suitable place where she won't gather dust as much.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: R6 c 1
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: Looking closer, this statue clearly got a love of love
+  - <Text>k__BackingField: Looking closer, this statue clearly got a lot of love
       from its sculptor. It's proportions only look more complimented under the brazier's
       warm light.
     TextAlignment: 257
@@ -27,7 +27,7 @@ MonoBehaviour:
       Like you're a kid getting caught with something you shouldn't be playing with.
     TextAlignment: 257
   - <Text>k__BackingField: I'm not dumb. I know what it's epxecting of me. I mean,
-      it's all a dream, sure. A <i>really</i> vivd one at that. But, actually doing
+      it's all a dream, sure. A <i>really</i> vivid one at that. But, actually doing
       it? I never felt that penchant towards girls that look like... This... But...
       I guess... It never hurts to try?
     TextAlignment: 257

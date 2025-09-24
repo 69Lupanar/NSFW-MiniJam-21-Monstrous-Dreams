@@ -19,8 +19,8 @@ MonoBehaviour:
   - <Text>k__BackingField: As I try futilely to punch the petals, I feel something
       sharp poke beneath the flesh all around me.
     TextAlignment: 257
-  - <Text>k__BackingField: Then suddenly, the flower churned and contracted violently.
-      I didn't even have the time to let out a single scream. The fangs pierced through
+  - <Text>k__BackingField: Then suddenly, the flower churns and contracts violently.
+      I don't even have the time to let out a single scream. The fangs pierce through
       my skin as easily as butter.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}

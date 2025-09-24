@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: B9
   m_EditorClassIdentifier: Assembly-CSharp::DialogueStateSO
   <Texts>k__BackingField:
-  - <Text>k__BackingField: <color=#FF99DD>Ho ho, yes. You species has always been
+  - <Text>k__BackingField: <color=#FF99DD>Ho ho, yes. Your species has always been
       a curious bunch, weren't you? Always exploring new horizons and experimenting.
-      Back then, it took a lot to scare of a human. Especially the most... Libidinous
+      Back then, it took a lot to scare off a human. Especially the most... Libidinous
       ones.
     TextAlignment: 260
   - <Text>k__BackingField: <color=#FF99DD>But I was glad to discover they were more

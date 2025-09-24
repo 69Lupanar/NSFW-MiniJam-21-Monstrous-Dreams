@@ -15,11 +15,11 @@ MonoBehaviour:
   <Texts>k__BackingField:
   - <Text>k__BackingField: Then, the brazier bursts into an inferno. I futilely try
       to cover my face with my arms to block the unbearable heat wave. My own scream
-      was drown by the noise of the inferno.
+      was drown by the roar of the flames.
     TextAlignment: 257
-  - <Text>k__BackingField: The wall of flames suddenly collapses, washing over me
-      in an instant. The last thing I saw in the corner in my eye was the statue
-      of the creature, spared by the fire, her eyes glowing red with anger.
+  - <Text>k__BackingField: The wall of fire suddenly collapses, washing over me in
+      an instant. The last thing I saw in the corner in my eye was the statue of
+      the creature, spared by the flames, her eyes glowing red with anger.
     TextAlignment: 257
   <Illustration>k__BackingField: {fileID: 0}
   <Bgm>k__BackingField: {fileID: 0}
